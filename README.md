@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **Rohitkamble558869@gmail.com** For Collaboration/Project o
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/44df0540-d154-4d8e-9cd5-74c552e85f35" /> -LeetCode
+<img width="98" height="98" alt="image" src="https://github.com/user-attachments/assets/44df0540-d154-4d8e-9cd5-74c552e85f35" /> -LeetCode
 
 -------------------------------------------------------------------------
 
