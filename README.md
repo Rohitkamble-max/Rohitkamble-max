@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rohit Kamble
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software Engineer**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **Rohitkamble558869@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on: 
 - 🌱 **I’m currently learning: Node.js and SQL
